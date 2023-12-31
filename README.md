@@ -1,4 +1,4 @@
-<h3 align="center">Welcome to my GitHub profile!</h3>
+<h2 align="left">Welcome to my GitHub profile!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=evanargiro&label=Profile%20views&color=0e75b6&style=flat" alt="evanargiro" /> </p>
 
